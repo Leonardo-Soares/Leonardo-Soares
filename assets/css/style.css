@@ -310,6 +310,7 @@ section {
 
 .section-title p {
   margin-bottom: 0;
+  text-align: justify;
 }
 
 /*--------------------------------------------------------------
@@ -740,11 +741,17 @@ section {
   padding-bottom: 130px;
 }
 
+.contact a{
+  color: black; 
+  width: 100%;
+}
+
 .contact .info {
   padding: 30px;
   background: #fff;
   width: 100%;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
+  margin-bottom: 15px;
 }
 
 .contact .info i {
@@ -912,6 +919,17 @@ section {
   }
   100% {
     transform: rotate(360deg);
+  }
+}
+
+@media (max-width: 500px){
+  .contact .info .email p {
+    font-size: 12px;
+    font-weight: bold;
+  }
+
+  .contact .info p{
+    font-weight: bold;
   }
 }
 
