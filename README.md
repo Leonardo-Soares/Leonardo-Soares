@@ -1,6 +1,6 @@
 # Hello World !
-###### Me chamo Leonardo Soares
-###### Programador com 18 anos e amante de tecnologias
+Me chamo Leonardo Soares <br>
+Programador com 18 anos e amante de tecnologias
 
 👨‍🎓 | Formações Acadêmicas:
   -  Técnico em Eletrônica (2017 - 2020) 
