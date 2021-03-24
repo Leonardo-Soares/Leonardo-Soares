@@ -17,5 +17,5 @@ Programador com 18 anos e amante de tecnologias
   - HTML e CSS (Sites)
   - Python
 
-🌐 | Portifolio: https://leonardo-soares.github.io/Leonardo-Soares/
+🌐 | Portifolio: [Leonardo Soares](https://leonardo-soares.github.io/Leonardo-Soares/) 
 
