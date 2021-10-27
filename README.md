@@ -17,6 +17,7 @@ Apaixonado por tecnologias de softwares e relacionadas
 👨‍🎓 | Formações Acadêmicas:
   -  Técnico em Eletrônica (2017 - 2020) 
   -  Técnico em Redes de Computadores (2020 - 2022)
+  -  Bolsista CNPq - Projeto Amandaba (09/2021 - 12/2021)
  
 ❤️ | Linguagens de Programação:
   - C++
