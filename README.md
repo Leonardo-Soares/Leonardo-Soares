@@ -19,5 +19,6 @@ Apaixonado por tecnologias de softwares e relacionadas
   - Bootstrap
   - HTML e CSS (Sites)
   - Python
+  - Laravel
 
 🌐 | [Meu Portifólio](https://leonardo-soares.github.io/Leonardo-Soares/) 
