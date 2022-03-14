@@ -7,7 +7,8 @@ Apaixonado por tecnologias de softwares e relacionadas
 👨‍🎓 | Formações Acadêmicas:
   -  Técnico em Eletrônica (2017 - 2020) 
   -  Técnico em Redes de Computadores (2020 - 2023)
-  -  Bolsista CNPq - Projeto Amandaba (09/2021 - 12/2021)
+  -  Desenvolvedor Web e Mobile no Projeto Amandaba da Amazônia - UFPA - (09/2021 - 08/2022)
+  -  Desenvolvedor Web e Mobile em UPCEUR ()
  
 ❤️ | Linguagens de Programação:
   - C++
