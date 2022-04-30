@@ -1,7 +1,6 @@
 # Hello World !!
-Me chamo Leonardo Soares <br>
-Apaixonado por códigos e projetos diversos <br>
-Sou intusiasta do framework **Flutter**
+Me chamo Leonardo <br>
+Sou Apaixonado por códigos e projetos que envolvam código <br>
 
 <div align="center">
   <a href="https://leonardo-soares.github.io/Leonardo-Soares/">
